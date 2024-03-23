@@ -10,6 +10,7 @@ from time import sleep
 
 cwd = os.getcwd() + "/data/extensions/havoc-PoolParty"  # change this 
 shellcode_file_path = cwd + "/payload.bin"
+shellcode_file_path = cwd + "/PoolParty-master.exe"
 
 variant = ""
 pid = ""
